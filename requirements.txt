@@ -1,0 +1,27 @@
+# Core Python libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# HuggingFace Transformers (for BERT)
+transformers
+datasets
+
+# Fastai (for AWD-LSTM / ULMFiT)
+fastai
+
+# Jupyter (optional, for notebooks)
+jupyter
+notebook
+
+# Utilities
+tqdm
+requests
+idna
