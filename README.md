@@ -1,0 +1,2 @@
+# Sentiment-Analysis-Using-Custom-LSTM-and-Pretrained-AWD-LSTM--ULMFiT
+Design and implement a sentiment analysis system using a custom LSTM model trained from scratch and compare its performance with a pretrained AWD-LSTM (ULMFiT) model. The objective is to evaluate how pretrained language representations improve classification accuracy and convergence compared to training an LSTM without prior linguistic knowledge.
